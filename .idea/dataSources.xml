@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="mat.craos.net" uuid="ae796fa8-3da0-4b51-a64e-02cf3a3a2493">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:49123/cr</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+      <time-zone>America/Sao_Paulo</time-zone>
+    </data-source>
+  </component>
+</project>

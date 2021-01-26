@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../anima.proprietario" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../firebase.verticals.spacedraw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../firebase.verticals.supervisor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../firebase.verticals.vllibs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../mast.api.center" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../microsoft-authentication-library-for-js" vcs="Git" />
+  </component>
+</project>

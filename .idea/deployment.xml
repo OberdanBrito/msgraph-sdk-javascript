@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="notedell" remoteFilesAllowedToDisappearOnAutoupload="false" showAutoUploadSettingsWarning="false">
+    <serverData>
+      <paths name="craos.net">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="grupomast">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../ms-identity-node-main" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mast.craos.net">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/htdocs/admin" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/home/craos/api" local="$PROJECT_DIR$/../mast.api.center" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="notedell">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/api" local="$PROJECT_DIR$/../mast.api.center" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="vmware_cr_mast">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../ms-identity-node-main" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

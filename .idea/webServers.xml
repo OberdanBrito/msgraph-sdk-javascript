@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="00f626b1-cab1-4076-9f2c-bf3a6b35bfdf" name="grupomast" url="http://ftp.grupomast.hospedagemdesites.ws">
+        <fileTransfer host="ftp.grupomast.hospedagemdesites.ws" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" showHiddenFiles="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="824c09c2-970d-4460-84ea-8ff8baa6227d" name="vmware_cr_mast" url="http://192.168.0.22">
+        <fileTransfer accessType="SFTP" host="192.168.0.22" port="22" sshConfigId="93fd8bbf-a600-423e-a457-9cc72f34549a" sshConfig="craos@192.168.0.22:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="436a2092-60dd-45df-abf8-7feaa3d587a6" name="notedell" url="http://192.168.0.20">
+        <fileTransfer rootFolder="/home/craos" accessType="SFTP" host="mast.craos.net" port="49124" sshConfigId="04f50c67-91c0-45f4-b29a-9c6dd089565e" sshConfig="craos@mast.craos.net:49124 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

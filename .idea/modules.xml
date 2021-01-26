@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../admin/.idea/admin.iml" filepath="$PROJECT_DIR$/../admin/.idea/admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../anima.proprietario/.idea/anima.proprietario.iml" filepath="$PROJECT_DIR$/../anima.proprietario/.idea/anima.proprietario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../daemon/.idea/daemon.iml" filepath="$PROJECT_DIR$/../daemon/.idea/daemon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../firebase.verticals.spacedraw/.idea/firebase.verticals.spacedraw.iml" filepath="$PROJECT_DIR$/../firebase.verticals.spacedraw/.idea/firebase.verticals.spacedraw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../firebase.verticals.supervisor/.idea/firebase.verticals.supervisor.iml" filepath="$PROJECT_DIR$/../firebase.verticals.supervisor/.idea/firebase.verticals.supervisor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../firebase.verticals.vllibs/.idea/firebase.verticals.vllibs.iml" filepath="$PROJECT_DIR$/../firebase.verticals.vllibs/.idea/firebase.verticals.vllibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mast.admin.center/.idea/mast.admin.center.iml" filepath="$PROJECT_DIR$/../mast.admin.center/.idea/mast.admin.center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mast.api.center/.idea/mast.api.center.iml" filepath="$PROJECT_DIR$/../mast.api.center/.idea/mast.api.center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../microsoft-authentication-library-for-js/.idea/microsoft-authentication-library-for-js.iml" filepath="$PROJECT_DIR$/../microsoft-authentication-library-for-js/.idea/microsoft-authentication-library-for-js.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ms-identity-node-main/.idea/ms-identity-node-main.iml" filepath="$PROJECT_DIR$/../ms-identity-node-main/.idea/ms-identity-node-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/msgraph-sdk-javascript.iml" filepath="$PROJECT_DIR$/.idea/msgraph-sdk-javascript.iml" />
+    </modules>
+  </component>
+</project>
