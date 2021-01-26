@@ -4,13 +4,9 @@
 // for fast development, simply require the generated lib without bundling the npm module
 
 require("isomorphic-fetch");
-
 const MicrosoftGraph = require("../../lib/src/index.js");
-
 const secrets = require("./secrets");
-
 const fs = require("fs");
-
 const client = MicrosoftGraph.Client.init({
 	defaultVersion: "v1.0",
 	debugLogging: true,
@@ -20,16 +16,46 @@ const client = MicrosoftGraph.Client.init({
 });
 
 // Get the name of the authenticated user with promises
+// client
+// 	.api("/me")
+// 	.select("displayName")
+// 	.get()
+// 	.then((res) => {
+// 		console.log(res);
+// 	})
+// 	.catch((err) => {
+// 		console.log(err);
+// 	});
+
 client
-	.api("/me")
-	.select("displayName")
+	// .api("me/messages?$filter=isread eq false")
+	.api("/me/messages?$filter=(from/emailAddress/address) eq 'oberdan@devcraos.onmicrosoft.com'")
 	.get()
 	.then((res) => {
-		console.log(res);
+		//console.log(res);
+
+		// res.value.forEach(valor => {
+		// 	console.debug(valor)
+		// })
+
+		// res.value.forEach(valor => {
+		// 	console.debug(valor.sender)
+		// })
+
+		res.value.forEach((valor) => {
+			console.debug(valor.from);
+		});
 	})
 	.catch((err) => {
 		console.log(err);
 	});
+
+//
+// let res = await client.api('/me/messages')
+// 	.version('beta')
+// 	.select('internetMessageHeaders')
+// 	.top(1)
+// 	.get();
 
 /*
 

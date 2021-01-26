@@ -14,7 +14,7 @@ Register the application as mentioned in the [Getting Started](../../README.md#1
 
 4. Install the application by `npm install`.
 
-5. Rename the [secrets.sample.js](./src/secrets.sample.js) file as **secrets.js**.
+5. Rename the [secrets.js](./src/secrets.sample.js) file as **secrets.js**.
 
 6. Update your `clientId` in **secret.js** file.
 
