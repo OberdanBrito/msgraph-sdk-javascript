@@ -8,6 +8,7 @@
     <file url="file://$PROJECT_DIR$/../mast.admin.center/src/ui/layout.js" libraries="{dhtmlx}" />
     <file url="file://$PROJECT_DIR$/../mast.admin.center/src/view/view_canais.js" libraries="{dhtmlx}" />
     <file url="file://$PROJECT_DIR$/../mast.admin.center/src/view/view_concentimento.js" libraries="{dhtmlx}" />
+    <file url="file://$PROJECT_DIR$/../mast.admin.center/src/view/view_usuario.js" libraries="{dhtmlx}" />
     <includedPredefinedLibrary name="Node.js Core" />
   </component>
 </project>
