@@ -14,5 +14,6 @@
     <orderEntry type="module" module-name="firebase.verticals.vllibs" />
     <orderEntry type="module" module-name="mast.api.center" />
     <orderEntry type="module" module-name="firebase.verticals.spacedraw" />
+    <orderEntry type="module" module-name="active-directory-javascript-graphapi-v2-quickstart" />
   </component>
 </module>

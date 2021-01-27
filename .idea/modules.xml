@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../active-directory-javascript-graphapi-v2-quickstart/.idea/active-directory-javascript-graphapi-v2-quickstart.iml" filepath="$PROJECT_DIR$/../active-directory-javascript-graphapi-v2-quickstart/.idea/active-directory-javascript-graphapi-v2-quickstart.iml" />
       <module fileurl="file://$PROJECT_DIR$/../admin/.idea/admin.iml" filepath="$PROJECT_DIR$/../admin/.idea/admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/../anima.proprietario/.idea/anima.proprietario.iml" filepath="$PROJECT_DIR$/../anima.proprietario/.idea/anima.proprietario.iml" />
       <module fileurl="file://$PROJECT_DIR$/../daemon/.idea/daemon.iml" filepath="$PROJECT_DIR$/../daemon/.idea/daemon.iml" />
